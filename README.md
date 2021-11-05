@@ -1,3 +1,3 @@
 # coursera-ml-solutions
 
-cr: @suraggupta[ ] ,@dibgerge[https://github.com/dibgerge]
+cr: @suraggupta[https://github.com/suraggupta] ,@dibgerge[https://github.com/dibgerge]
